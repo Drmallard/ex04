@@ -1,0 +1,52 @@
+ex04_1
+
+Print the first 11 numbers, starting with 0, of the Fibonacci sequence.
+
+*** Fibonacci with iteration: 11 numbers sequence
+0 1 1 2 3 5 8 13 21 34 55
+
+
+ex04_2
+
+There is a point in the center of a rectangle with the width of 980 and the height of 660 pixels (or millimeters on paper). The north-west corner of the rectangle has zero coordinates (x = 0, y = 0). Positive x numbers go towards the east of the rectangle. Positive y numbers go towards the south of the rectangle.
+
+Draw a line on paper of the length of 120 pixels (millimeters) from the center of the rectangle under the angle of 33 degrees towards the south-east of the rectangle. This is only to help you calculate the following:
+
+Given the center of the rectangle as the starting point and the angle of 33 degrees, calculate the end point of the line.
+
+*** The coordinates of the end point of the line is: (555.3566842018032, 430.6404681534509)
+
+
+ex04_3
+
+Calculate the time in years, months and days passed between your birthday at noon and today at noon.
+
+*** Difference in years: 20.54794520547945
+Difference in months: 246.5753424657534
+Difference in days: 7500
+
+
+ex04_4
+
+Calculate a compound interest each year for 10 years, for the initial investment of 1000$ with the fixed interest rate of 3.3.
+
+*** After ten years, the initial amount worth: 153157898.53 dollars
+
+
+ex04_5
+
+Calculate the first 20 terms of the 12 times table.
+
+*** 12 * 1 = 12
+12 * 2 = 24
+12 * 3 = 36
+12 * 4 = 48
+12 * 5 = 60
+12 * 6 = 72
+12 * 7 = 84
+12 * 8 = 96
+12 * 9 = 108
+12 * 10 = 120
+12 * 11 = 132
+12 * 12 = 144
+
