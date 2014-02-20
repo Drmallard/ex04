@@ -1,0 +1,28 @@
+ex04
+15/20
+
+ex04_1
+
+dr: la prochaine fois, plus des changements s'il vous plaît
+
+ex04_2
+2/4
+
+The coordinates of the end point of the line is:
+(-2) (555.3566842018032, 430.6404681534509)
+dr:
+Starts at (490.0, 330.0).
+The end point of the line is at (590.64, 395.36).
+
+ex04_3
+3/4
+
+Difference in days: 7500
+dr: (-1) in years, months and days
+
+ex04_4
+(-2) After ten years, the initial amount worth: 153157898.53 dollars
+dr: At the end of year 10 value = $1383.58.
+
+ex04_5
+dr: Calculate the first 20 terms of the 12 times table.
